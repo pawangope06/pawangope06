@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pawangope06
-- 👀 I’m interested in small projects 
+- 👀 python is not venom
 - 🌱 I’m currently learning java and python
 - 📫 mail me : pawanyaduvanshi4340@gmail.com
 - I am doing my B.Tech in CSE with specialization in Artificial Intelligence And Machine Learning
